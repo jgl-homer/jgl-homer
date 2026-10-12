@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/jglcustoms.png" width="650">
+<img src="./assets/jglcustoms.png" width="450">
 
 # 👨‍💻 Homero
 
