@@ -2,7 +2,7 @@
 
 <img src="./assets/jglcustoms.png" width="650">
 
-# 👨‍💻 JGL HOMER
+# 👨‍💻 Homero
 
 ### Developer • Audio Enthusiast • Linux • Servers • Android
 
