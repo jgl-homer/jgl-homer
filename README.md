@@ -1,78 +1,36 @@
-💻 **Developer | Flutter & Dart | Linux | Audio & Tech**
+<div align="center">
 
-Me gusta aprender haciendo cosas que realmente funcionen.
-Entre código, servidores, música y uno que otro experimento que termina funcionando a las 3 AM. 😂
+<img src="./assets/jglcustoms.png" width="650">
 
----
+# 👨‍💻 JGL HOMER
 
-## 🚀 Sobre mí
+### Developer • Audio Enthusiast • Linux • Servers • Android
 
-* 📱 Desarrollo aplicaciones con **Flutter & Dart**
-* 🔥 Trabajo con **Firebase**
-* 🐧 Me gusta experimentar con **Linux, Armbian y servidores**
-* 🎵 Proyecto cosas relacionadas con **música y audio**
-* 🐍 Uso **Python** para automatizar tareas
-* 🛠️ Git & GitHub para mis proyectos
-* ⚡ Siempre estoy probando alguna tecnología nueva
+[![GitHub](https://img.shields.io/badge/GitHub-jgl--homer-181717?style=for-the-badge&logo=github)](https://github.com/jgl-homer)
+[![Instagram](https://img.shields.io/badge/Instagram-jgl.homer-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jgl.homer)
+![Profile Views](https://komarev.com/ghpvc/?username=jgl-homer&style=for-the-badge)
+
+</div>
 
 ---
 
-## 🧰 Tecnologías
+## ⚡ Sobre mí
 
----
+Me gusta aprender construyendo cosas que **realmente funcionen**.
 
-## 📱 Lo que estoy haciendo
+Entre aplicaciones, procesamiento de audio, servidores Linux, Android, automatización y hardware, siempre termino experimentando con alguna idea nueva.
 
-🎵 **Music Player**
-Un reproductor de música con biblioteca local, organización y procesamiento de audio.
+Y sí... muchas veces el proyecto que empezó como:
 
-🖥️ **Music Server**
-Experimentando con servidores caseros usando Linux/Armbian, almacenamiento externo y acceso remoto.
+> *"nomás voy a probar una cosa rápido"*
 
-📱 **Flutter Apps**
-Aplicaciones móviles utilizando Flutter, Firebase, SQLite y APIs.
-
-🔧 **Automation**
-Scripts en Python para automatizar archivos, música, metadatos y otras tareas repetitivas.
-
----
-
-## 🎧 También me gusta...
+termina funcionando a las **3 AM**. 😂
 
 ```text
-🎵 Música
-🔊 Audio / Car Audio
-💻 Programación
+💻 Software
+🎵 Audio
 🐧 Linux
 🖥️ Servidores
 📱 Android
+🔧 Hardware
 🤖 IA
-🛠️ Hardware
-```
-
----
-
-## 📊 GitHub
-
----
-
-## 🧑‍💻 Lenguajes
-
----
-
-## 🔗 Encuéntrame
-
-<p align="center">
-  <a href="https://github.com/jgl-homer">
-    <img src="https://img.shields.io/badge/GitHub-jgl--homer-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://instagram.com/jgl.homer">
-    <img src="https://img.shields.io/badge/Instagram-jgl.homer-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <b>⚡ Code. Build. Break. Fix. Repeat. ⚡</b>
-</p>
